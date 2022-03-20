@@ -1,0 +1,1 @@
+zip -r extension.zip img js manifest.json
